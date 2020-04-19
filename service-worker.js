@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sugar-meter/precache-manifest.397ca549ba1a3f6e6a8431a66af5170f.js"
+  "/sugar-meter/precache-manifest.c552fa01bf376cda021d612e9583f1d1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sugar-meter"});

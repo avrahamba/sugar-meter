@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "527b9e8475b435b48ba6",
+    "revision": "d21521a7a364058c106b",
     "url": "/sugar-meter/css/app.01d544d1.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sugar-meter/img/blad-test.195d4973.svg"
   },
   {
-    "revision": "3f59e2bc4228e142315673b8f382629f",
+    "revision": "d2adaa8351ea9a40b4a75cc104ababc6",
     "url": "/sugar-meter/index.html"
   },
   {
-    "revision": "527b9e8475b435b48ba6",
-    "url": "/sugar-meter/js/app.d406cf8b.js"
+    "revision": "d21521a7a364058c106b",
+    "url": "/sugar-meter/js/app.2e68c703.js"
   },
   {
     "revision": "55574ddc1392c20515de",
