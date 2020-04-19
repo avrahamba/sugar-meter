@@ -1,0 +1,9 @@
+@import './cmps/add-test';
+@import './cmps/details';
+html{
+    direction: rtl;
+    header{
+        display: flex;
+        justify-content: space-around;
+    }
+}
